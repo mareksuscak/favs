@@ -4,6 +4,10 @@
 * ClojureScript - [docs](https://github.com/clojure/clojurescript/wiki/Quick-Start)
 * Elm - [docs](http://elm-lang.org/docs)
 
+## Runtimes
+
+* Node.js - [docs](https://nodejs.org/en/docs/)
+
 ## UI Frameworks
 
 * React - [docs](https://facebook.github.io/react/docs/getting-started.html)
@@ -74,9 +78,14 @@
 * SuperAgent - [docs](http://visionmedia.github.io/superagent/)
 * Isomorphic Fetch - [docs](https://github.com/matthew-andrews/isomorphic-fetch)
 
-## Web Framework
+## Web App tools
 
 * Express - [docs](http://expressjs.com/en/guide/routing.html)
+* Nodemon - [docs](https://github.com/remy/nodemon)
+
+## Debugging
+
+* Node Inspector - [docs](https://github.com/node-inspector/node-inspector)
 
 ## Utils & FP
 
@@ -87,6 +96,24 @@
 
 * Immutable - [docs](https://facebook.github.io/immutable-js/docs/#/)
 
+## Promises
+
+* Bluebird - [docs](http://bluebirdjs.com/docs/getting-started.html)
+
+## Validation
+
+* Validate - [docs](http://validatejs.org/)
+* Validator - [docs](https://github.com/chriso/validator.js)
+* Valid - [docs](https://github.com/dleitee/valid.js)
+
 ## Date & Time
 
 * Moment.js - [docs](http://momentjs.com/docs/)
+* Instadate - [docs](https://github.com/Teamweek/instadate)
+
+## Miscellaneous
+
+* URI.js - [docs](https://medialize.github.io/URI.js/)
+* yargs - [docs](https://github.com/bcoe/yargs)
+* nconf - [docs](https://github.com/indexzero/nconf)
+* mversion - [docs](https://github.com/mikaelbr/mversion)
