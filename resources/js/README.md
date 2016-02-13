@@ -160,6 +160,10 @@
 
 * Favor NPM scripts over Gulp - [article](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
 
+## Benchmarking
+
+* Matcha - [docs](https://github.com/logicalparadox/matcha)
+
 ## Logging
 
 * Winston - [docs](https://github.com/winstonjs/winston)
@@ -176,6 +180,7 @@
 * NConf - [docs](https://github.com/indexzero/nconf)
 * MVersion - [docs](https://github.com/mikaelbr/mversion)
 * RimRaf - [docs](https://github.com/isaacs/rimraf)
+* Mkdirp - [docs](https://github.com/substack/node-mkdirp)
 
 ## Other resources
 
