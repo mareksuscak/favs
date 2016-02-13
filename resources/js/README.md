@@ -26,6 +26,7 @@
 * Vorpal - [docs](https://github.com/dthree/vorpal)
 * Minimist - [docs](https://github.com/substack/minimist)
 * Yargs - [docs](https://github.com/bcoe/yargs)
+* Chalk - [docs](https://github.com/chalk/chalk)
 
 ## UI Frameworks
 
@@ -155,9 +156,14 @@
 
 * rf-release - [docs](https://github.com/ryanflorence/rf-release)
 
+## Scripting
+
+* Favor NPM scripts over Gulp - [article](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
+
 ## Logging
 
-* Chalk - [docs](https://github.com/chalk/chalk)
+* Winston - [docs](https://github.com/winstonjs/winston)
+* Bunyan - [docs](https://github.com/trentm/node-bunyan)
 
 ## Date & Time
 
@@ -174,3 +180,6 @@
 ## Other resources
 
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
