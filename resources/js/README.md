@@ -8,6 +8,19 @@
 
 * Node.js - [docs](https://nodejs.org/en/docs/)
 
+## DevTools
+
+* Chrome DevTools - [docs](https://developer.chrome.com/devtools)
+
+## Native apps
+
+* React Native - [docs](https://facebook.github.io/react-native/docs/getting-started.html)
+
+## Data Driven Apps
+
+* Relay - [docs](https://facebook.github.io/relay/)
+* GraphQL - [docs](https://facebook.github.io/graphql/)
+
 ## UI Frameworks
 
 * React - [docs](https://facebook.github.io/react/docs/getting-started.html)
@@ -105,6 +118,18 @@
 * Validate - [docs](http://validatejs.org/)
 * Validator - [docs](https://github.com/chriso/validator.js)
 * Valid - [docs](https://github.com/dleitee/valid.js)
+
+## Authentication
+
+* JWT - [docs](http://jwt.io/)
+
+## Live Reload
+
+* BrowserSync - [docs](https://www.browsersync.io/docs/)
+
+## Logging
+
+* Chalk - [docs](https://github.com/chalk/chalk)
 
 ## Date & Time
 
