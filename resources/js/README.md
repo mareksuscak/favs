@@ -21,6 +21,12 @@
 * Relay - [docs](https://facebook.github.io/relay/)
 * GraphQL - [docs](https://facebook.github.io/graphql/)
 
+## Command Line Utils
+
+* Vorpal - [docs](https://github.com/dthree/vorpal)
+* Minimist - [docs](https://github.com/substack/minimist)
+* Yargs - [docs](https://github.com/bcoe/yargs)
+
 ## UI Frameworks
 
 * React - [docs](https://facebook.github.io/react/docs/getting-started.html)
@@ -47,6 +53,13 @@
 
 * Babel - [docs](https://babeljs.io/docs/setup/)
 
+## CSS pre/post/processors
+
+* Sass - [docs](https://github.com/sass/node-sass)
+* PostCSS - [docs](https://github.com/postcss/postcss/tree/master/docs)
+* AutoPrefixer - [docs](https://github.com/postcss/autoprefixer)
+* CSS Nano - [docs](http://cssnano.co/usage/)
+
 ## Code Linting
 
 * Eslint - [docs](http://eslint.org/docs/user-guide/getting-started)
@@ -60,7 +73,12 @@
 * GitBook - [docs](https://github.com/GitbookIO/gitbook)
 * DocPress - [docs](https://github.com/docpress/docpress)
 
-## Testing
+## Test runners
+
+* Testem - [docs](https://github.com/testem/testem)
+* Karma - [docs](https://karma-runner.github.io/0.13/intro/configuration.html)
+
+## Test frameworks
 
 * Mocha - [docs](https://mochajs.org/)
 * Tape - [docs](https://github.com/substack/tape)
@@ -84,6 +102,7 @@
 
 ## Routing
 
+* Director - [docs](https://github.com/flatiron/director)
 * React Router - [docs](https://github.com/reactjs/react-router)
 
 ## Requests
@@ -99,6 +118,7 @@
 ## Debugging
 
 * Node Inspector - [docs](https://github.com/node-inspector/node-inspector)
+* Vorlon - [docs](http://vorlonjs.com/documentation/)
 
 ## Utils & FP
 
@@ -123,9 +143,17 @@
 
 * JWT - [docs](http://jwt.io/)
 
+## Internationalization
+
+* Intl - [docs](https://github.com/andyearnshaw/Intl.js/)
+
 ## Live Reload
 
 * BrowserSync - [docs](https://www.browsersync.io/docs/)
+
+## Release & Deployment
+
+* rf-release - [docs](https://github.com/ryanflorence/rf-release)
 
 ## Logging
 
@@ -138,7 +166,11 @@
 
 ## Miscellaneous
 
-* URI.js - [docs](https://medialize.github.io/URI.js/)
-* yargs - [docs](https://github.com/bcoe/yargs)
-* nconf - [docs](https://github.com/indexzero/nconf)
-* mversion - [docs](https://github.com/mikaelbr/mversion)
+* Uri - [docs](https://medialize.github.io/URI.js/)
+* NConf - [docs](https://github.com/indexzero/nconf)
+* MVersion - [docs](https://github.com/mikaelbr/mversion)
+* RimRaf - [docs](https://github.com/isaacs/rimraf)
+
+## Other resources
+
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
