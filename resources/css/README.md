@@ -14,6 +14,7 @@
 
 ## General Purpose Frameworks
 
+* Normalize - [docs](https://github.com/necolas/normalize.css/)
 * Bootstrap - [docs](http://getbootstrap.com/)
 * Pure CSS - [docs](http://purecss.io/)
 * Foundation - [docs](http://foundation.zurb.com/frameworks-docs.html)
