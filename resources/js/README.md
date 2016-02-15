@@ -1,6 +1,6 @@
 ## Languages
 
-* JavaScript - [docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* JavaScript - [docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [collection](http://superherojs.com/)
 * ClojureScript - [docs](https://github.com/clojure/clojurescript/wiki/Quick-Start)
 * Elm - [docs](http://elm-lang.org/docs)
 
