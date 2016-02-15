@@ -36,7 +36,7 @@
 
 ## Flux Frameworks
 
-* Redux - [docs](http://redux.js.org/)
+* Redux - [docs](http://redux.js.org/), [course](https://egghead.io/series/getting-started-with-redux)
 
 ## Task Runners
 

@@ -4,6 +4,13 @@
 * SCSS - [docs](http://sass-lang.com/guide)
 * Stylus - [docs](http://stylus-lang.com/)
 
+## Methodologies
+
+* BEM - [docs](https://en.bem.info/tutorials/quick-start-static/)
+* RSCSS - [docs](http://rscss.io/#introduction)
+* ITCSS - [video](https://www.youtube.com/watch?v=1OKZOV-iLj4), [screencast](https://www.youtube.com/watch?v=hz76JIU_xB0)
+* SMACSS - [docs](https://smacss.com/book/)
+
 ## Extensions
 
 * Bourbon - [docs](http://bourbon.io/docs/)

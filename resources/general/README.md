@@ -59,6 +59,7 @@
 
 * An Introduction to Functional Programming - [article](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * The Introduction to Reactive Programming - [article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* Mostly Adequate Guide to Functional Programming - [guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
 
 ## Cognitive Load and Learning
 
