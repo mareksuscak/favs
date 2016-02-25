@@ -95,6 +95,7 @@
 ## JS DOM representation
 
 * JSDOM - [docs](https://github.com/tmpvar/jsdom)
+* Enzyme - [docs](http://airbnb.io/enzyme/)
 
 ## Code Coverage
 
