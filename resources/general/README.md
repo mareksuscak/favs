@@ -4,6 +4,10 @@
 * Introduction to Algorithms - [book](http://www.bookdepository.com/Introduction-Algorithms-Thomas-Cormen/9780262033848)
 * Hacker's Delight - [book](http://www.bookdepository.com/Hackers-Delight-Henry-Warren/9780321842688)
 
+## Large Scale Maintainable Software
+
+* Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+
 ## Design Patterns & Principles
 
 * Design Patterns by GoF - [book](http://www.bookdepository.com/Design-Patterns-Erich-Gamma/9780201633610)
