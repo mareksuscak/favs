@@ -33,6 +33,7 @@
 * 26 Digital Typography Rules for Beginners - [article](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
 * Why Performance Matters: The Perception of Time - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 * How to Fix a Bad UI - [article](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+* Jank Free - [guide](http://jankfree.org/)
 
 
 ## Styleguides
