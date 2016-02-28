@@ -170,10 +170,11 @@
 * Winston - [docs](https://github.com/winstonjs/winston)
 * Bunyan - [docs](https://github.com/trentm/node-bunyan)
 
-## Date & Time
+## Localization & Formatting
 
 * Moment.js - [docs](http://momentjs.com/docs/)
 * Instadate - [docs](https://github.com/Teamweek/instadate)
+* Format.js - [docs](http://formatjs.io/guides/)
 
 ## Miscellaneous
 
