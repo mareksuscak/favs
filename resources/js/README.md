@@ -184,6 +184,7 @@
 * MVersion - [docs](https://github.com/mikaelbr/mversion)
 * RimRaf - [docs](https://github.com/isaacs/rimraf)
 * Mkdirp - [docs](https://github.com/substack/node-mkdirp)
+* fflip - [docs](https://github.com/FredKSchott/fflip)
 
 ## Other resources
 
