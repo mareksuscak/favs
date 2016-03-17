@@ -156,6 +156,7 @@
 ## Release & Deployment
 
 * rf-release - [docs](https://github.com/ryanflorence/rf-release)
+* Ship It - [docs](https://github.com/shipitjs/shipit)
 
 ## Scripting
 
