@@ -7,6 +7,7 @@
 ## Large Scale Maintainable Software
 
 * Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* How to Deploy Software - [article](https://zachholman.com/posts/deploying-software)
 
 ## Design Patterns & Principles
 
