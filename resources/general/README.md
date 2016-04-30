@@ -6,7 +6,7 @@
 
 ## Building Products
 
-* 8 rules of great products [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
+* 8 rules of great products - [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
 
 ## Large Scale Maintainable Software
 
