@@ -4,6 +4,10 @@
 * Introduction to Algorithms - [book](http://www.bookdepository.com/Introduction-Algorithms-Thomas-Cormen/9780262033848)
 * Hacker's Delight - [book](http://www.bookdepository.com/Hackers-Delight-Henry-Warren/9780321842688)
 
+## Building Products
+
+* 8 rules of great products [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
+
 ## Large Scale Maintainable Software
 
 * Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
