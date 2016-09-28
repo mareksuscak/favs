@@ -59,6 +59,7 @@
 
 * Ten Rules for Web Startups - [article](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * Lean Startup - [book](http://www.bookdepository.com/Lean-Startup-Eric-Ries/9780307887894)
+* The Three Infrastructure Mistakes Your Company Must Not Do - [article](http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/) 
 
 ## API design
 
