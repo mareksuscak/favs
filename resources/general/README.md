@@ -40,6 +40,8 @@
 * Ten Rules for Web Startups - [article](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
 * Lean Startup - [book](http://www.bookdepository.com/Lean-Startup-Eric-Ries/9780307887894)
 * The Greatest Sales Deck I Have Ever Seen - [article](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+* Don't Start Big, Start a Little Snowball - [article](https://blog.nugget.one/2016/09/04/dont-start-big-start-a-little-snowball/)
+* Things I Learned At My Startup - [article](http://johnmosesman.com/things-i-learned-at-my-first-startup/)
 
 ## Freelancing, Equity & Compensation
 
