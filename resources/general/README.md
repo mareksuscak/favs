@@ -42,11 +42,16 @@
 * The Greatest Sales Deck I Have Ever Seen - [article](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * Don't Start Big, Start a Little Snowball - [article](https://blog.nugget.one/2016/09/04/dont-start-big-start-a-little-snowball/)
 * Things I Learned At My Startup - [article](http://johnmosesman.com/things-i-learned-at-my-first-startup/)
+* How To Make a Million Dollars in Cold Hard Cash - [article](https://medium.com/hi-my-name-is-jon/how-to-make-a-million-dollars-c4dc9a9bfd99)
+* 9 Tactics That Will Improve Your Customer Lifetime Value - [article](http://www.appster.com.au/blog/9-tactics-will-improve-customer-lifetime-value)
+* Fuck It, Ship It - [article](http://www.dtelepathy.com/blog/business/fuck-it-ship-it-how-to-achieve-perfection-through-iteration)
 
 ## Freelancing, Equity & Compensation
 
 * How to Set Your Rate - [article](http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/)
 * The Open Guide to Equity & Compensation - [guide](https://github.com/jlevy/og-equity-compensation)
+* 50 Ways, Happier Healthier and More Successful People Live On Their Own Terms - [article](https://medium.com/the-mission/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448)
+* The Two Paths To Success - [article](http://paulbuchheit.blogspot.sk/2011/02/two-paths-to-success.html)
 
 ## Functional Programming and FRP
 
@@ -66,6 +71,8 @@
 * Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * How to Deploy Software - [article](https://zachholman.com/posts/deploying-software)
 * The Three Infrastructure Mistakes Your Company Must Not Do - [article](http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/)
+* Systems That Run Forever, Self Heal and Scale - [talk](https://www.infoq.com/presentations/self-heal-scalable-system)
+* Choose Boring Technology - [slides](http://mcfunley.com/choose-boring-technology-slides)
 
 ## Perfect UX
 
@@ -75,7 +82,6 @@
 * How to Fix a Bad UI - [article](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 * Jank Free - [guide](http://jankfree.org/)
 
-
 ## Styleguides
 
 * Muzli Styleguide Inspirations - [article](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.x52c0vm8g)
@@ -84,13 +90,7 @@
 
 * 7 Rules for Creating Gorgeous UI - [series](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
-* CSS Font Size EM vs PX vs PT - [article](http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs)
-* Reasonable System for CSS Stylesheet Structure - [guide](https://github.com/rstacruz/rscss)
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
-* Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
-* Optimizing for Critical Rendering Path - [course](https://classroom.udacity.com/courses/ud860)
-* FLIP Your Animations - [article](https://aerotwist.com/blog/flip-your-animations/)
-* Medium's CSS is Actually Pretty F*****g Good - [article](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
 
 ## User stories
 
@@ -98,10 +98,21 @@
 * Gherkin - [guide](https://github.com/cucumber/cucumber/wiki/Gherkin)
 * What's in a Story - [article](http://dannorth.net/whats-in-a-story/)
 
+## Web Development
+
+* CSS Font Size EM vs PX vs PT - [article](http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs)
+* Reasonable System for CSS Stylesheet Structure - [guide](https://github.com/rstacruz/rscss)
+* Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
+* Optimizing for Critical Rendering Path - [course](https://classroom.udacity.com/courses/ud860)
+* FLIP Your Animations - [article](https://aerotwist.com/blog/flip-your-animations/)
+* Medium's CSS is Actually Pretty F*****g Good - [article](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
+* Functional React Series - [series](https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25)
+* CSS Architecture - [article](https://www.ckl.io/blog/css-architecture-first-steps/)
+
 ## Work & Remote Work
 
 * Awesome Remote Job - [collection](https://github.com/lukasz-madon/awesome-remote-job)
 * 1 Year of Working Remote - [story](http://modess.io/2015/08/16/one-year-of-working-remote/)
 * How to Be the Fastest Developer on Your Team - [series](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
 * Getting Things Done - [article](http://jvns.ca/blog/2016/09/19/getting-things-done/)
-
+* Lessons Learned Building And Managing a Remote Team - [article](https://baremetrics.com/blog/building-remote-team)
