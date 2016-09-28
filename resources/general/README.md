@@ -87,6 +87,7 @@
 * Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
 * Optimizing for Critical Rendering Path - [course](https://classroom.udacity.com/courses/ud860)
 * FLIP Your Animations - [article](https://aerotwist.com/blog/flip-your-animations/)
+* Medium's CSS is Actually Pretty F*****g Good - [article](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
 
 ## User stories
 
