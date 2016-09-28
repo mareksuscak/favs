@@ -103,11 +103,14 @@
 * CSS Font Size EM vs PX vs PT - [article](http://kyleschaeffer.com/development/css-font-size-em-vs-px-vs-pt-vs)
 * Reasonable System for CSS Stylesheet Structure - [guide](https://github.com/rstacruz/rscss)
 * Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
-* Optimizing for Critical Rendering Path - [course](https://classroom.udacity.com/courses/ud860)
+* Browser Rendering Optimization - [course](https://classroom.udacity.com/courses/ud860)
 * FLIP Your Animations - [article](https://aerotwist.com/blog/flip-your-animations/)
 * Medium's CSS is Actually Pretty F*****g Good - [article](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) 
 * Functional React Series - [series](https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25)
 * CSS Architecture - [article](https://www.ckl.io/blog/css-architecture-first-steps/)
+* From Zero To Frontend Hero - [article](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
+* Building Loveable UIs - [slides](https://speakerdeck.com/henriquea/building-loveable-uis)
+* Why Performance Matters - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 
 ## Work & Remote Work
 
@@ -116,3 +119,5 @@
 * How to Be the Fastest Developer on Your Team - [series](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
 * Getting Things Done - [article](http://jvns.ca/blog/2016/09/19/getting-things-done/)
 * Lessons Learned Building And Managing a Remote Team - [article](https://baremetrics.com/blog/building-remote-team)
+* The Shockingly Simple Math For An Early Retirement - [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
+* Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
