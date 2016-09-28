@@ -84,6 +84,7 @@
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
 * Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
 * Optimizing for Critical Rendering Path - [course](https://classroom.udacity.com/courses/ud860)
+* FLIP Your Animations - [article](https://aerotwist.com/blog/flip-your-animations/)
 
 ## User stories
 
