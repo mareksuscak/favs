@@ -3,6 +3,7 @@
 * Codility lessons - [series](https://codility.com/programmers/lessons/)
 * Introduction to Algorithms - [book](http://www.bookdepository.com/Introduction-Algorithms-Thomas-Cormen/9780262033848)
 * Hacker's Delight - [book](http://www.bookdepository.com/Hackers-Delight-Henry-Warren/9780321842688)
+* Itsy Bitsy Data Structures - [commented source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 
 ## API design
 
