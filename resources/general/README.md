@@ -14,6 +14,7 @@
 ## Building Products
 
 * 8 rules of great products - [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
+* Product Design for Rapid Growth - [article](https://uxdesign.cc/product-design-for-rapid-growth-c7eaf1cdbf52#.bwvx0z2h6)
 
 ## Cognitive Load and Learning
 
