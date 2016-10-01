@@ -15,6 +15,7 @@
 
 * 8 rules of great products - [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
 * Product Design for Rapid Growth - [article](https://uxdesign.cc/product-design-for-rapid-growth-c7eaf1cdbf52#.bwvx0z2h6)
+* 19 Channels You Can Use To Get Traction - [article](https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.imf8c8pbo)
 
 ## Cognitive Load and Learning
 
