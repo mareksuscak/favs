@@ -55,6 +55,7 @@
 * The Open Guide to Equity & Compensation - [guide](https://github.com/jlevy/og-equity-compensation)
 * 50 Ways, Happier Healthier and More Successful People Live On Their Own Terms - [article](https://medium.com/the-mission/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448)
 * The Two Paths To Success - [article](http://paulbuchheit.blogspot.sk/2011/02/two-paths-to-success.html)
+* Engineering You - [talk](https://www.infoq.com/presentations/engineer-practices-techniques)
 
 ## Functional Programming and FRP
 
