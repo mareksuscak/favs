@@ -115,6 +115,7 @@
 * From Zero To Frontend Hero - [article](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 * Building Loveable UIs - [slides](https://speakerdeck.com/henriquea/building-loveable-uis)
 * Why Performance Matters - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
+* 12 Factor App - [guide](https://12factor.net)
 
 ## Work & Remote Work
 
