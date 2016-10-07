@@ -77,6 +77,7 @@
 * The Three Infrastructure Mistakes Your Company Must Not Do - [article](http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/)
 * Systems That Run Forever, Self Heal and Scale - [talk](https://www.infoq.com/presentations/self-heal-scalable-system)
 * Choose Boring Technology - [slides](http://mcfunley.com/choose-boring-technology-slides)
+* Debugging Postgresql The Hard Way - [article](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
 ## Perfect UX
 
