@@ -118,6 +118,7 @@
 * Why Performance Matters - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 * 12 Factor App - [guide](https://12factor.net)
 * Helpful Principles When Starting with React - [article](http://ignaciochavez.com/helpful-principles-starting-react/)
+* Learning Elixir - [series](http://learningelixir.joekain.com/)
 
 ## Work & Remote Work
 
