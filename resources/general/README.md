@@ -119,6 +119,7 @@
 * 12 Factor App - [guide](https://12factor.net)
 * Helpful Principles When Starting with React - [article](http://ignaciochavez.com/helpful-principles-starting-react/)
 * Learning Elixir - [series](http://learningelixir.joekain.com/)
+* Ember Igniter - [series](https://emberigniter.com/)
 
 ## Work & Remote Work
 
