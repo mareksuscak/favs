@@ -48,6 +48,8 @@
 * How To Make a Million Dollars in Cold Hard Cash - [article](https://medium.com/hi-my-name-is-jon/how-to-make-a-million-dollars-c4dc9a9bfd99)
 * 9 Tactics That Will Improve Your Customer Lifetime Value - [article](http://www.appster.com.au/blog/9-tactics-will-improve-customer-lifetime-value)
 * Fuck It, Ship It - [article](http://www.dtelepathy.com/blog/business/fuck-it-ship-it-how-to-achieve-perfection-through-iteration)
+* Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
+* Recursive Product Strategy - [article](http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/)
 
 ## Freelancing, Equity & Compensation
 
