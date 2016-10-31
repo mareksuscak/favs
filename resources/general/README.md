@@ -50,6 +50,7 @@
 * Fuck It, Ship It - [article](http://www.dtelepathy.com/blog/business/fuck-it-ship-it-how-to-achieve-perfection-through-iteration)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Recursive Product Strategy - [article](http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/)
+* Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
 
 ## Freelancing, Equity & Compensation
 
