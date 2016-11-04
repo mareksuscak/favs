@@ -135,3 +135,4 @@
 * The Shockingly Simple Math For An Early Retirement - [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 * Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 * Be Productive Anywhere: 8 Proven Strategies for Better Remote Work - [article](https://zapier.com/blog/productive-remote-work/)
+* Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
