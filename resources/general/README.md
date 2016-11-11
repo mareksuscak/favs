@@ -137,3 +137,4 @@
 * Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 * Be Productive Anywhere: 8 Proven Strategies for Better Remote Work - [article](https://zapier.com/blog/productive-remote-work/)
 * Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
+* How to Ask for a Raise - [article](https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/)
