@@ -126,6 +126,7 @@
 * Learning Elixir - [series](http://learningelixir.joekain.com/)
 * Ember Igniter - [collection](https://emberigniter.com/)
 * Progressive Image Loading - [collection](https://jmperezperez.com/)
+* Two Quick Ways to Reduce App Size with WebPack - [article](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.c9r5gocrf)
 
 ## Work & Remote Work
 
