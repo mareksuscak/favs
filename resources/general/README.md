@@ -119,6 +119,7 @@
 * CSS Architecture - [article](https://www.ckl.io/blog/css-architecture-first-steps/)
 * From Zero To Frontend Hero - [article](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02)
 * Building Loveable UIs - [slides](https://speakerdeck.com/henriquea/building-loveable-uis)
+* Performance Engineering with React - [series](http://benchling.engineering/performance-engineering-with-react/)
 * Why Performance Matters - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 * 12 Factor App - [guide](https://12factor.net)
 * Enterprise Ready App - [guide](https://www.enterpriseready.io/)
