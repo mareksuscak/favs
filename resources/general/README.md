@@ -17,6 +17,7 @@
 * Product Design for Rapid Growth - [article](https://uxdesign.cc/product-design-for-rapid-growth-c7eaf1cdbf52#.bwvx0z2h6)
 * 19 Channels You Can Use To Get Traction - [article](https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.imf8c8pbo)
 * Reducing Cognitive Overload for a Better UX - [article](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
+* The Future of Software Engineering - [video](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
 ## Cognitive Load and Learning
 
@@ -54,7 +55,6 @@
 * The One Cost Engineers and PMs Don't Consider - [article](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 * $9 marketing stack - [article](https://robsobers.com/9-dollar-marketing-stack-step-by-step-setup-guide/)
 
-
 ## Freelancing, Equity & Compensation
 
 * How to Set Your Rate - [article](http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/)
@@ -68,7 +68,6 @@
 * An Introduction to Functional Programming - [article](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * The Introduction to Reactive Programming - [article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * Mostly Adequate Guide to Functional Programming - [guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
-
 
 ## Guide to Technical Development
 
