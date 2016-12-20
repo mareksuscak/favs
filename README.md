@@ -76,6 +76,7 @@
 * Code Review Best Practices - [article](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * Teach Writing Code First - [article](https://dev.to/pbeekums/teach-writing-code-first)
 * Talks that Changed the Way I Think About Programming - [collection](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
+* A Visual Guide to Machine Learning - [article](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ## Large Scale Maintainable Software
 
