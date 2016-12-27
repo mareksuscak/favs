@@ -56,6 +56,7 @@
 * The One Cost Engineers and PMs Don't Consider - [article](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 * $9 marketing stack - [article](https://robsobers.com/9-dollar-marketing-stack-step-by-step-setup-guide/)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
+* The Epic Guide to Bootstrapping a SaaS Startup - [series](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.y003irmza)
 
 ## Freelancing, Equity & Compensation
 
