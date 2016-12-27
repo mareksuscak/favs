@@ -18,6 +18,7 @@
 * 19 Channels You Can Use To Get Traction - [article](https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.imf8c8pbo)
 * Reducing Cognitive Overload for a Better UX - [article](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 * The Future of Software Engineering - [video](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+* Use This Simple Psychology Rule to Improve your Customer Experience - [article](https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wl9or42r4)
 
 ## Cognitive Load and Learning
 
