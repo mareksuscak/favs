@@ -54,6 +54,7 @@
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
 * The One Cost Engineers and PMs Don't Consider - [article](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 * $9 marketing stack - [article](https://robsobers.com/9-dollar-marketing-stack-step-by-step-setup-guide/)
+* Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
 
 ## Freelancing, Equity & Compensation
 
