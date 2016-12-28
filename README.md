@@ -5,6 +5,7 @@
 * Hacker's Delight - [book](http://www.bookdepository.com/Hackers-Delight-Henry-Warren/9780321842688)
 * Itsy Bitsy Data Structures - [commented source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 * The Super Tiny Compiler - [commented source](https://github.com/thejameskyle/the-super-tiny-compiler)
+* Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
 
 ## API design
 
