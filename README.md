@@ -71,6 +71,8 @@
 * An Introduction to Functional Programming - [article](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * The Introduction to Reactive Programming - [article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * Mostly Adequate Guide to Functional Programming - [guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/index.html)
+* Professor Frisby Introduces Composable Functional JavaScript - [course](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+* Interoperability of Common Algebraic Structures in JavaScript - [specification](https://github.com/fantasyland/fantasy-land)
 
 ## Guide to Technical Development
 
