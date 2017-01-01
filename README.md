@@ -101,6 +101,11 @@
 * How to Fix a Bad UI - [article](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 * Jank Free - [guide](http://jankfree.org/)
 
+## Personal Development
+
+* Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
+* How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
+
 ## Styleguides
 
 * Muzli Styleguide Inspirations - [article](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.x52c0vm8g)
