@@ -158,3 +158,4 @@
 * Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 * How to Ask for a Raise - [article](https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/)
 * Legacy Code - [podcast](https://softwareengineeringdaily.com/2016/11/07/legacy-code-with-andrea-goulet/)
+* In 2017 Learn Every Language - [article](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.f4v52zfdw)
