@@ -159,3 +159,4 @@
 * How to Ask for a Raise - [article](https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/)
 * Legacy Code - [podcast](https://softwareengineeringdaily.com/2016/11/07/legacy-code-with-andrea-goulet/)
 * In 2017 Learn Every Language - [article](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.f4v52zfdw)
+* Working Remotely, Coworking and Mental Health - [article](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
