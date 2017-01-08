@@ -6,6 +6,7 @@
 * Itsy Bitsy Data Structures - [commented source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 * The Super Tiny Compiler - [commented source](https://github.com/thejameskyle/the-super-tiny-compiler)
 * Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
+* Easy 6502 Assembly - [micro-ebook](https://skilldrick.github.io/easy6502/)
 
 ## API design
 
