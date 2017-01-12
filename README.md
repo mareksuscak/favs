@@ -22,6 +22,7 @@
 * Reducing Cognitive Overload for a Better UX - [article](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 * The Future of Software Engineering - [video](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 * Use This Simple Psychology Rule to Improve your Customer Experience - [article](https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wl9or42r4)
+* How to Come Up with Side Project Ideas - [article](https://medium.com/product-hunt/how-to-come-up-with-side-project-ideas-4a2c8049deba#.s0uamr4iw)
 
 ## Cognitive Load and Learning
 
@@ -108,6 +109,7 @@
 * Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
 * How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
 * How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
+* Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 
 ## Styleguides
 
