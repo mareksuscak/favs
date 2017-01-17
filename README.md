@@ -111,6 +111,7 @@
 * How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
 * How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
+* How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 
 ## Styleguides
 
