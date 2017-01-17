@@ -24,6 +24,7 @@
 * Use This Simple Psychology Rule to Improve your Customer Experience - [article](https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wl9or42r4)
 * How to Come Up with Side Project Ideas - [article](https://medium.com/product-hunt/how-to-come-up-with-side-project-ideas-4a2c8049deba#.s0uamr4iw)
 * How I Built an App with 500k Users in 5 days on $100 / mo server - [article](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
+* Scaling Your Web App 101 - [article](https://blog.hartleybrody.com/scale-load/)
 
 ## Cognitive Load and Learning
 
