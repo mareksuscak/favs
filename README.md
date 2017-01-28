@@ -98,6 +98,8 @@
 * Systems That Run Forever, Self Heal and Scale - [talk](https://www.infoq.com/presentations/self-heal-scalable-system)
 * Choose Boring Technology - [slides](http://mcfunley.com/choose-boring-technology-slides)
 * Debugging Postgresql The Hard Way - [article](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
+* Database Choices with Markus Winand - [podcast](https://softwareengineeringdaily.com/2016/10/24/database-choices-and-uber-with-markus-winand/)
+* Evolutionary Architecture - [podcast](https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/)
 
 ## Perfect UX
 
