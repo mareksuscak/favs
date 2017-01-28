@@ -25,6 +25,7 @@
 * How to Come Up with Side Project Ideas - [article](https://medium.com/product-hunt/how-to-come-up-with-side-project-ideas-4a2c8049deba#.s0uamr4iw)
 * How I Built an App with 500k Users in 5 days on $100 / mo server - [article](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
 * Scaling Your Web App 101 - [article](https://blog.hartleybrody.com/scale-load/)
+* Product Management with Suzie Prince - [podcast](https://softwareengineeringdaily.com/2017/01/18/product-management-with-suzie-prince/)
 
 ## Cognitive Load and Learning
 
