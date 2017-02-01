@@ -117,6 +117,7 @@
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
+* Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 
 ## Styleguides
 
