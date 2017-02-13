@@ -101,6 +101,7 @@
 * Debugging Postgresql The Hard Way - [article](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 * Database Choices with Markus Winand - [podcast](https://softwareengineeringdaily.com/2016/10/24/database-choices-and-uber-with-markus-winand/)
 * Evolutionary Architecture - [podcast](https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/)
+* Online Migrations at Scale - [article](https://stripe.com/blog/online-migrations)
 
 ## Perfect UX
 
