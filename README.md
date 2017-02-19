@@ -85,6 +85,9 @@
 ## Guide to Technical Development
 
 * Technical Development Guide - [guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* Open Source Computer Science Degree - [collection](https://github.com/mvillaloboz/open-source-cs-degree)
+* I Wanted to Learn CS so I created My Own Curriculum - [collection](https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278#.57wcivodi)
+* 250 Free Ivy League Courses - [collection](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869#.j2omdb99w)
 * 9 Anti-Patterns Every Programmer Should Be Aware of - [article](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * Code Review Best Practices - [article](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
 * Teach Writing Code First - [article](https://dev.to/pbeekums/teach-writing-code-first)
