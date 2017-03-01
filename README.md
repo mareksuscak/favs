@@ -26,6 +26,7 @@
 * How I Built an App with 500k Users in 5 days on $100 / mo server - [article](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
 * Scaling Your Web App 101 - [article](https://blog.hartleybrody.com/scale-load/)
 * Product Management with Suzie Prince - [podcast](https://softwareengineeringdaily.com/2017/01/18/product-management-with-suzie-prince/)
+* Six Steps to Superior Product Prototyping - [article](http://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/)
 
 ## Cognitive Load and Learning
 
@@ -105,6 +106,7 @@
 * Database Choices with Markus Winand - [podcast](https://softwareengineeringdaily.com/2016/10/24/database-choices-and-uber-with-markus-winand/)
 * Evolutionary Architecture - [podcast](https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/)
 * Online Migrations at Scale - [article](https://stripe.com/blog/online-migrations)
+* Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38)
 
 ## Perfect UX
 
