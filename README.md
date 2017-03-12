@@ -13,6 +13,8 @@
 
 * Web APIs from Scratch to Finish - [series](http://www.infoq.com/articles/Web-APIs-From-Start-to-Finish)
 * HTTP API Design Guide - [guide](https://github.com/interagent/http-api-design)
+* Google's API Design Guide - [guide](https://cloud.google.com/apis/design/)
+* Ultimate Guide to API Design - [guide](https://blog.qmo.io/ultimate-guide-to-api-design/)
 
 ## Building Products
 
