@@ -94,6 +94,7 @@
 * Teach Writing Code First - [article](https://dev.to/pbeekums/teach-writing-code-first)
 * Talks that Changed the Way I Think About Programming - [collection](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 * A Visual Guide to Machine Learning - [article](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* Coreutils - [docs](https://www.gnu.org/software/coreutils/manual/html_node/)
 
 ## Large Scale Maintainable Software
 
