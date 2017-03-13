@@ -129,6 +129,7 @@
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
 * Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 * System Design Primer - [guide](https://github.com/donnemartin/system-design-primer)
+* (Deep Work) => Flow: A proven Path to Satisfaction - [article](https://www.robinwieruch.de/lessons-learned-deep-work-flow/)
 
 ## Styleguides
 
