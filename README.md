@@ -77,7 +77,7 @@
 * The Two Paths To Success - [article](http://paulbuchheit.blogspot.sk/2011/02/two-paths-to-success.html)
 * Engineering You - [talk](https://www.infoq.com/presentations/engineer-practices-techniques)
 
-## Functional Programming and FRP
+## Functional and Reactive Programming
 
 * An Introduction to Functional Programming - [article](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * The Introduction to Reactive Programming - [article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -85,7 +85,16 @@
 * Professor Frisby Introduces Composable Functional JavaScript - [course](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * Interoperability of Common Algebraic Structures in JavaScript - [specification](https://github.com/fantasyland/fantasy-land)
 
-## Guide to Technical Development
+## Personal Development
+
+* Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
+* How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
+* How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
+* Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
+* Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
+* (Deep Work) => Flow: A proven Path to Satisfaction - [article](https://www.robinwieruch.de/lessons-learned-deep-work-flow/)
+
+## Professional Development
 
 * Technical Development Guide - [guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * Open Source Computer Science Degree - [collection](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -97,8 +106,12 @@
 * Talks that Changed the Way I Think About Programming - [collection](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 * A Visual Guide to Machine Learning - [article](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * Coreutils - [docs](https://www.gnu.org/software/coreutils/manual/html_node/)
+* System Design Primer - [guide](https://github.com/donnemartin/system-design-primer)
+* Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
+* How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
+* Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 
-## Large Scale Maintainable Software
+## Software Architecture
 
 * Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * How to Deploy Software - [article](https://zachholman.com/posts/deploying-software)
@@ -111,7 +124,13 @@
 * Online Migrations at Scale - [article](https://stripe.com/blog/online-migrations)
 * Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38)
 
-## Perfect UX
+## User Interface
+
+* 7 Rules for Creating Gorgeous UI - [series](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+* Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
+* Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
+
+## User Experience
 
 * 7 Principles of Rich Web Applications - [article](http://rauchg.com/2014/7-principles-of-rich-web-applications/)
 * 26 Digital Typography Rules for Beginners - [article](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
@@ -119,29 +138,7 @@
 * How to Fix a Bad UI - [article](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
 * Jank Free - [guide](http://jankfree.org/)
 
-## Personal Development
-
-* Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
-* How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
-* How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
-* Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
-* How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
-* Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
-* Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
-* System Design Primer - [guide](https://github.com/donnemartin/system-design-primer)
-* (Deep Work) => Flow: A proven Path to Satisfaction - [article](https://www.robinwieruch.de/lessons-learned-deep-work-flow/)
-
-## Styleguides
-
-* Muzli Styleguide Inspirations - [article](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.x52c0vm8g)
-
-## UI for Developers
-
-* 7 Rules for Creating Gorgeous UI - [series](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
-* Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
-* Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
-
-## User stories
+## User Stories
 
 * A Framework for modern User Stories - [article](https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9)
 * Gherkin - [guide](https://github.com/cucumber/cucumber/wiki/Gherkin)
@@ -172,8 +169,9 @@
 * Two Quick Ways to Reduce App Size with WebPack - [article](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.c9r5gocrf)
 * 12 Factor App - [guide](https://12factor.net/)
 * Enterprise Ready - [guide](https://www.enterpriseready.io/)
+* Muzli Styleguide Inspirations - [article](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.x52c0vm8g)
 
-## Work & Remote Work
+## Work
 
 * Awesome Remote Job - [collection](https://github.com/lukasz-madon/awesome-remote-job)
 * 1 Year of Working Remote - [story](http://modess.io/2015/08/16/one-year-of-working-remote/)
@@ -181,7 +179,6 @@
 * Getting Things Done - [article](http://jvns.ca/blog/2016/09/19/getting-things-done/)
 * Lessons Learned Building And Managing a Remote Team - [article](https://baremetrics.com/blog/building-remote-team)
 * The Shockingly Simple Math For An Early Retirement - [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
-* Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 * Be Productive Anywhere: 8 Proven Strategies for Better Remote Work - [article](https://zapier.com/blog/productive-remote-work/)
 * Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 * How to Ask for a Raise - [article](https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/)
