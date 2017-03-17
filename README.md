@@ -110,6 +110,7 @@
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
+* Teach Yourself Computer Science - [collection](https://teachyourselfcs.com/)
 
 ## Software Architecture
 
@@ -129,6 +130,7 @@
 * 7 Rules for Creating Gorgeous UI - [series](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
+* Practical Color Theory for People Who Code - [guide](https://tallys.github.io/color-theory/)
 
 ## User Experience
 
@@ -185,3 +187,4 @@
 * Legacy Code - [podcast](https://softwareengineeringdaily.com/2016/11/07/legacy-code-with-andrea-goulet/)
 * In 2017 Learn Every Language - [article](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee#.f4v52zfdw)
 * Working Remotely, Coworking and Mental Health - [article](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
+* Hiring Without Whiteboards - [collection](https://github.com/poteto/hiring-without-whiteboards)
