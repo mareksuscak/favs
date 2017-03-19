@@ -111,6 +111,7 @@
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 * Teach Yourself Computer Science - [collection](https://teachyourselfcs.com/)
+* Sideways Dictionary - [site](https://sidewaysdictionary.com/)
 
 ## Software Architecture
 
