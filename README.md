@@ -174,6 +174,7 @@
 * 12 Factor App - [guide](https://12factor.net/)
 * Enterprise Ready - [guide](https://www.enterpriseready.io/)
 * Muzli Styleguide Inspirations - [article](https://medium.com/muzli-design-inspiration/style-guide-inspirations-dfb77c4bb13b#.x52c0vm8g)
+* A Step-by-Step Guide for Starting a New App Design Project - [article](https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8#.97vk2d2vc)
 
 ## Work
 
