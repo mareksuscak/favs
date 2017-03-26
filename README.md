@@ -114,6 +114,7 @@
 * Teach Yourself Computer Science - [collection](https://teachyourselfcs.com/)
 * Sideways Dictionary - [site](https://sidewaysdictionary.com/)
 * Open Source Society - [collection](https://github.com/open-source-society/computer-science)
+* 10 Things My Friends and I are Doing to Be Better Devs - [article](https://medium.com/code-school/10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0#.iff4h33hr)
 
 ## Software Architecture
 
