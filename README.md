@@ -8,6 +8,7 @@
 * Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
 * Easy 6502 Assembly - [micro-ebook](https://skilldrick.github.io/easy6502/)
 * Top 10 Algorithms in Interview Questions - [collection](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* 500 Data Structures and Algorithms - [collection](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 
 ## API design
 
