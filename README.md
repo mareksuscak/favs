@@ -99,6 +99,7 @@
 * (Deep Work) => Flow: A proven Path to Satisfaction - [article](https://www.robinwieruch.de/lessons-learned-deep-work-flow/)
 * How to Learn New Things as an Adult - [article](https://www.theatlantic.com/science/archive/2017/03/how-to-learn-new-things-as-an-adult/519687/?single_page=true)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
+* The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
 
 ## Professional Development
 
