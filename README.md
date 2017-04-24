@@ -32,6 +32,7 @@
 * Product Management with Suzie Prince - [podcast](https://softwareengineeringdaily.com/2017/01/18/product-management-with-suzie-prince/)
 * Six Steps to Superior Product Prototyping - [article](http://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/)
 * The MVP is Dead, Long Live RAT - [article](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
+* Does it Scale? Who Cares! - [article](https://jacquesmattheij.com/does-it-scale-who-cares)
 
 ## Cognitive Load and Learning
 
