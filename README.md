@@ -72,6 +72,7 @@
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
 * The Epic Guide to Bootstrapping a SaaS Startup - [series](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.y003irmza)
 * How to Start a Startup without Ruining Your Life - [article](https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life)
+* How Anyone Can Make Insanely Better Slides - [article](https://hackernoon.com/how-anyone-can-make-insanely-better-slides-2398b5c3731c)
 
 ## Freelancing, Equity & Compensation
 
