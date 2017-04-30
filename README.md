@@ -10,6 +10,7 @@
 * Top 10 Algorithms in Interview Questions - [collection](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * 500 Data Structures and Algorithms - [collection](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
 * Competitive Programmer's Handbook - [ebook](https://cses.fi/book.html)
+* Algorithms in Python - [collection](https://github.com/keon/algorithms)
 
 ## API design
 
