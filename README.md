@@ -101,6 +101,7 @@
 * How to Learn New Things as an Adult - [article](https://www.theatlantic.com/science/archive/2017/03/how-to-learn-new-things-as-an-adult/519687/?single_page=true)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
 * The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
+* Learning These 9 Tough Skills Will Pay Off for the Rest of Your Life - [article](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
 
 ## Professional Development
 
