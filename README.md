@@ -103,6 +103,7 @@
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
 * The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
 * Learning These 9 Tough Skills Will Pay Off for the Rest of Your Life - [article](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
+* In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
 
 ## Professional Development
 
