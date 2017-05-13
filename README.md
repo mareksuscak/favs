@@ -120,6 +120,7 @@
 * System Design Primer - [guide](https://github.com/donnemartin/system-design-primer)
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 * Low Level Programmer University - [collection](https://github.com/gurugio/lowlevelprogramming-university)
+* Data Science Curriculum - [collection](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * Being A Developer After 40 - [article](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c)
 * Teach Yourself Computer Science - [collection](https://teachyourselfcs.com/)
