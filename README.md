@@ -129,6 +129,7 @@
 * 10 Things My Friends and I are Doing to Be Better Devs - [article](https://medium.com/code-school/10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0#.iff4h33hr)
 * Things You Should Never Do, Part 1 - [article](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * The 1% Rule - [article](http://jamesclear.com/the-1-percent-rule)
+* Recovering from Burnout - [article](https://kierantie.com/a/burnout/)
 
 ## Software Architecture
 
