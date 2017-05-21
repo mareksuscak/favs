@@ -130,6 +130,7 @@
 * Things You Should Never Do, Part 1 - [article](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * The 1% Rule - [article](http://jamesclear.com/the-1-percent-rule)
 * Recovering from Burnout - [article](https://kierantie.com/a/burnout/)
+* How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 
 ## Software Architecture
 
