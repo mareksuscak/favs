@@ -131,6 +131,7 @@
 * The 1% Rule - [article](http://jamesclear.com/the-1-percent-rule)
 * Recovering from Burnout - [article](https://kierantie.com/a/burnout/)
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
+* Improving a Legacy Codebase - [article](https://jacquesmattheij.com/improving-a-legacy-codebase)
 
 ## Software Architecture
 
