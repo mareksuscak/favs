@@ -132,6 +132,7 @@
 * Recovering from Burnout - [article](https://kierantie.com/a/burnout/)
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 * Improving a Legacy Codebase - [article](https://jacquesmattheij.com/improving-a-legacy-codebase)
+* Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
 
 ## Software Architecture
 
