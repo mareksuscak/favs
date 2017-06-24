@@ -133,6 +133,7 @@
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 * Improving a Legacy Codebase - [article](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
+* How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
 
 ## Software Architecture
 
