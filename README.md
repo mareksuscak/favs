@@ -134,6 +134,7 @@
 * Improving a Legacy Codebase - [article](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
+* Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 ## Software Architecture
 
@@ -147,6 +148,7 @@
 * Evolutionary Architecture - [podcast](https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/)
 * Online Migrations at Scale - [article](https://stripe.com/blog/online-migrations)
 * Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38)
+* C4 Software Architecture - [podcast](https://softwareengineeringdaily.com/2017/06/20/software-architecture-with-simon-brown/)
 
 ## User Interface
 
