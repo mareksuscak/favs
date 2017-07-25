@@ -136,6 +136,7 @@
 * Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
 * Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+* The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
 
 ## Software Architecture
 
