@@ -137,6 +137,7 @@
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
 * Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
+* The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 
 ## Software Architecture
 
