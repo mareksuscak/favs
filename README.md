@@ -150,7 +150,7 @@
 * Database Choices with Markus Winand - [podcast](https://softwareengineeringdaily.com/2016/10/24/database-choices-and-uber-with-markus-winand/)
 * Evolutionary Architecture - [podcast](https://softwareengineeringdaily.com/2017/01/05/evolutionary-architecture-with-neal-ford/)
 * Online Migrations at Scale - [article](https://stripe.com/blog/online-migrations)
-* Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38)
+* Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38), [summary](https://www.productivecsharp.com/2017/03/universal-architecture/)
 * C4 Software Architecture - [podcast](https://softwareengineeringdaily.com/2017/06/20/software-architecture-with-simon-brown/)
 
 ## User Interface
