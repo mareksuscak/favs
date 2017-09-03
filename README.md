@@ -159,6 +159,7 @@
 * Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
 * Practical Color Theory for People Who Code - [guide](https://tallys.github.io/color-theory/)
+* A Framework for Creating a Predictable and Harmonious Spacing System - [article](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
 
 ## User Experience
 
