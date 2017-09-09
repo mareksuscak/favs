@@ -105,6 +105,7 @@
 * Learning These 9 Tough Skills Will Pay Off for the Rest of Your Life - [article](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
 * 6 Things You Need to Recover From Every Day - [article](https://journal.thriveglobal.com/6-things-you-need-to-recover-from-every-day-23becf26fe89)
+* Habits vs Goals - [article](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/)
 
 ## Professional Development
 
