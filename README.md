@@ -106,6 +106,7 @@
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
 * 6 Things You Need to Recover From Every Day - [article](https://journal.thriveglobal.com/6-things-you-need-to-recover-from-every-day-23becf26fe89)
 * Habits vs Goals - [article](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/)
+* From reading to doing - [podcast](http://thepodcast.fm/episodes/84)
 
 ## Professional Development
 
