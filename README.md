@@ -34,6 +34,8 @@
 * Six Steps to Superior Product Prototyping - [article](http://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/)
 * The MVP is Dead, Long Live RAT - [article](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
 * Does it Scale? Who Cares! - [article](https://jacquesmattheij.com/does-it-scale-who-cares)
+* The Process of Designing a Product - [article](https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/)
+* Reverse Engineering a Successful Lifestyle Business - [article](https://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
 
 ## Cognitive Load and Learning
 
@@ -107,6 +109,8 @@
 * 6 Things You Need to Recover From Every Day - [article](https://journal.thriveglobal.com/6-things-you-need-to-recover-from-every-day-23becf26fe89)
 * Habits vs Goals - [article](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/)
 * From reading to doing - [podcast](http://thepodcast.fm/episodes/84)
+* How to Disagree - [article](http://paulgraham.com/disagree.html)
+* The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
 
 ## Professional Development
 
@@ -140,6 +144,7 @@
 * Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
 * The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
+* You're Not Paid to Write Code - [article](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
 
 ## Software Architecture
 
@@ -155,6 +160,7 @@
 * Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38), [summary](https://www.productivecsharp.com/2017/03/universal-architecture/)
 * C4 Software Architecture - [podcast](https://softwareengineeringdaily.com/2017/06/20/software-architecture-with-simon-brown/)
 * Towards a Theory of Software Design - [video](http://youtu.be/cNe6g0qczxE)
+* Design Bias - [article](https://codurance.com/2017/11/17/design-bias/)
 
 ## User Interface
 
