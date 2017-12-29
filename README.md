@@ -111,6 +111,7 @@
 * From reading to doing - [podcast](http://thepodcast.fm/episodes/84)
 * How to Disagree - [article](http://paulgraham.com/disagree.html)
 * The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
+* Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)
 
 ## Professional Development
 
