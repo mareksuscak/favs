@@ -6,6 +6,7 @@
 * Itsy Bitsy Data Structures - [annotated source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 * The Super Tiny Compiler - [annotated source](https://github.com/thejameskyle/the-super-tiny-compiler)
 * Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
+* Latency Numbers by Year - [cheatsheet](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 * Easy 6502 Assembly - [micro-ebook](https://skilldrick.github.io/easy6502/)
 * Top 10 Algorithms in Interview Questions - [collection](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * 500 Data Structures and Algorithms - [collection](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
@@ -146,6 +147,7 @@
 * The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
 * The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 * You're Not Paid to Write Code - [article](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
+* Code Kata - [collection](http://codekata.com)
 
 ## Software Architecture
 
