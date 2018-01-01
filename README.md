@@ -1,24 +1,21 @@
 ## Algorithms & Data Structures
 
-* Codility lessons - [series](https://codility.com/programmers/lessons/)
-* Introduction to Algorithms - [book](http://www.bookdepository.com/Introduction-Algorithms-Thomas-Cormen/9780262033848)
-* Hacker's Delight - [book](http://www.bookdepository.com/Hackers-Delight-Henry-Warren/9780321842688)
-* Itsy Bitsy Data Structures - [annotated source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
-* The Super Tiny Compiler - [annotated source](https://github.com/thejameskyle/the-super-tiny-compiler)
-* Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
-* Latency Numbers by Year - [cheatsheet](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
-* Easy 6502 Assembly - [micro-ebook](https://skilldrick.github.io/easy6502/)
-* Top 10 Algorithms in Interview Questions - [collection](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * 500 Data Structures and Algorithms - [collection](https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions)
-* Competitive Programmer's Handbook - [ebook](https://cses.fi/book.html)
 * Algorithms in Python - [collection](https://github.com/keon/algorithms)
+* Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
+* Codility lessons - [series](https://codility.com/programmers/lessons/)
+* Competitive Programmer's Handbook - [ebook](https://cses.fi/book.html)
+* Easy 6502 Assembly - [micro-ebook](https://skilldrick.github.io/easy6502/)
+* Itsy Bitsy Data Structures - [annotated source](https://github.com/thejameskyle/itsy-bitsy-data-structures)
+* Latency Numbers by Year - [cheatsheet](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+* Top 10 Algorithms in Interview Questions - [collection](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 ## API design
 
-* Web APIs from Scratch to Finish - [series](http://www.infoq.com/articles/Web-APIs-From-Start-to-Finish)
-* HTTP API Design Guide - [guide](https://github.com/interagent/http-api-design)
 * Google's API Design Guide - [guide](https://cloud.google.com/apis/design/)
+* HTTP API Design Guide - [guide](https://github.com/interagent/http-api-design)
 * Ultimate Guide to API Design - [guide](https://blog.qmo.io/ultimate-guide-to-api-design/)
+* Web APIs from Scratch to Finish - [series](http://www.infoq.com/articles/Web-APIs-From-Start-to-Finish)
 
 ## Building Products
 
@@ -43,25 +40,22 @@
 * You Too May be a Victim of Developaralysis - [article](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/)
 * How to Learn Efficiently - [article](http://lemire.me/blog/archives/2014/12/30/how-to-learn-efficiently/)
 
+## Compilers
+
+* The Super Tiny Compiler - [annotated source](https://github.com/thejameskyle/the-super-tiny-compiler)
+
 ## Design Patterns & Principles
 
-* Design Patterns by GoF - [book](http://www.bookdepository.com/Design-Patterns-Erich-Gamma/9780201633610)
-* Professional ASP.NET Design Patterns - [book](http://www.bookdepository.com/Professional-ASP-NET-Design-Patterns-Scott-Millett/9780470292785)
-* Agile Principles, Patterns and Practices in C# - [book](http://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 * Encapsulation and SOLID - [course](https://www.pluralsight.com/courses/encapsulation-solid)
 * Coffee Maker Heuristics - [guide](http://www.objectmentor.com/resources/articles/CoffeeMaker.pdf)
 
 ## Domain Driven Design
 
-* Domain Driven Design by Eric Evans - [book](http://www.bookdepository.com/Domain-driven-Design-Eric-Evans/9780321125217)
-* Patterns, Principles and Practices of DDD - [book](http://www.bookdepository.com/Patterns-Principles-Practices-Domain-Driven-Design-Scott-Millett/9781118714706)
-* Implementing Domain Driven Design - [book](http://www.bookdepository.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/9780321834577)
 * Getting Started with DDD - [article](https://dzone.com/refcardz/getting-started-domain-driven)
 
 ## Entrepreneurship & Startups
 
 * Ten Rules for Web Startups - [article](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
-* Lean Startup - [book](http://www.bookdepository.com/Lean-Startup-Eric-Ries/9780307887894)
 * The Greatest Sales Deck I Have Ever Seen - [article](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * Don't Start Big, Start a Little Snowball - [article](https://blog.nugget.one/2016/09/04/dont-start-big-start-a-little-snowball/)
 * Things I Learned At My Startup - [article](http://johnmosesman.com/things-i-learned-at-my-first-startup/)
