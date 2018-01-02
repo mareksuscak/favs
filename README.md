@@ -102,7 +102,7 @@
 * How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
 * Learning These 9 Tough Skills Will Pay Off for the Rest of Your Life - [article](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
-* __Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)__
+* Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)
 * Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
 * The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
