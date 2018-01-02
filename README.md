@@ -36,6 +36,8 @@
 * The Future of Software Engineering - [video](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 * The MVP is Dead, Long Live RAT - [article](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
 * The Process of Designing a Product - [article](https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/)
+* Two Step, No Bullshit Guide to Sketching -
+  [article](https://matejlatin.co.uk/personal-notes/2016/12/08/a-two-step-no-bullshit-guide-to-sketching/)
 * Use This Simple Psychology Rule to Improve your Customer Experience - [article](https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wl9or42r4)
 
 ## Compilers
