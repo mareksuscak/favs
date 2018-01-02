@@ -125,6 +125,8 @@
 * Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 * Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
+* Growing As Software Engineer -
+  [article](http://www.metadevelopment.io/growing-as-software-engineer/)
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
