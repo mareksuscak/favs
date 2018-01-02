@@ -138,6 +138,8 @@
 * System Design Primer - [guide](https://github.com/donnemartin/system-design-primer)
 * Talks that Changed the Way I Think About Programming - [collection](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 * Teach Yourself Computer Science - [collection](https://teachyourselfcs.com/)
+* Teach Yourself Programming in 10 Years -
+  [article](http://norvig.com/21-days.html)
 * Teach Writing Code First - [article](https://dev.to/pbeekums/teach-writing-code-first)
 * Technical Development Guide - [guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * The 1% Rule - [article](http://jamesclear.com/the-1-percent-rule)
