@@ -111,6 +111,7 @@
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
 * You Too May be a Victim of Developaralysis - [article](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/)
 * Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
+* Happiness, Systems for Decision Making, Habits, Honesty and More - [podcast](https://www.farnamstreetblog.com/2017/02/naval-ravikant-reading-decision-making/)
 
 ## Professional Development
 
