@@ -12,6 +12,7 @@
 * Latency Numbers by Year - [cheatsheet](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 * Python Programs to Practice or Demonstrate Skills - [collection](https://github.com/norvig/pytudes)
 * The Algorithm Design Manual - [book](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
+* Data-Oriented Design - [talk](https://youtu.be/rX0ItVEVjHc)
 
 ## API design
 
