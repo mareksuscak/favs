@@ -125,6 +125,7 @@
 * Coreutils - [docs](https://www.gnu.org/software/coreutils/manual/html_node/)
 * Data Science Curriculum - [collection](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 * Don't Call Yourself a Programmer - [article](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+* Every Programmer Should Know - [collection](https://github.com/mtdvio/every-programmer-should-know)
 * Faster, Better, Cheaper - Art of Making Software - [article](http://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/)
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 * Growing As Software Engineer -
