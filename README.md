@@ -71,6 +71,7 @@
 * Recursive Product Strategy - [article](http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
+* YCs Essential Startup Advice - [article](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
 
 ## Freelancing, Equity & Compensation
