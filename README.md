@@ -212,7 +212,6 @@
 * Performance Engineering with React - [series](http://benchling.engineering/performance-engineering-with-react/)
 * Optimising the Frontend for the Browser - [guide](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
 * Web Fundamentals: Performance - [guide](https://developers.google.com/web/fundamentals/performance/)
-* Enterprise Ready App - [guide](https://www.enterpriseready.io/)
 * Helpful Principles When Starting with React - [article](http://ignaciochavez.com/helpful-principles-starting-react/)
 * Learning Elixir - [series](http://learningelixir.joekain.com/)
 * Progressive Image Loading - [collection](https://jmperezperez.com/)
