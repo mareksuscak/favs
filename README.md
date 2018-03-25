@@ -105,6 +105,7 @@
 * How to Learn Efficiently - [article](http://lemire.me/blog/archives/2014/12/30/how-to-learn-efficiently/)
 * How to Learn New Things as an Adult - [article](https://www.theatlantic.com/science/archive/2017/03/how-to-learn-new-things-as-an-adult/519687/?single_page=true)
 * How to Make Better Use of Everything You Read - [article](https://work.qz.com/1217245/how-to-make-better-use-of-everything-you-read/)
+* How to Prioritise Using These 9 Mental Models - [article](https://medium.com/evergreen-business-weekly/how-to-prioritize-using-these-9-mental-models-daef8f03dd93)
 * How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
 * Improving Focus - [article](https://qotoqot.com/blog/improving-focus/)
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
