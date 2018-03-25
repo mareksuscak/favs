@@ -236,3 +236,4 @@
 * The Shockingly Simple Math For An Early Retirement - [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 * Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 * Working Remotely, Coworking and Mental Health - [article](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
+* Career Cold Start - [article](http://boz.com/articles/career-cold-start.html)
