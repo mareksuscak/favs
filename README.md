@@ -97,10 +97,12 @@
 * From reading to doing - [podcast](http://thepodcast.fm/episodes/84)
 * Future of Productivity - [publication](https://praxis.fortelabs.co/)
 * Habits vs Goals - [article](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/)
+* Happiness, Systems for Decision Making, Habits, Honesty and More - [podcast](https://www.farnamstreetblog.com/2017/02/naval-ravikant-reading-decision-making/)
 * How to Disagree - [article](http://paulgraham.com/disagree.html)
 * How to Go From Successful to Very Successful - [article](https://medium.com/the-mission/how-to-go-from-successful-to-very-successful-and-why-most-people-cant-do-it-eab95f82be53#.1icarmidv)
 * How to Learn Efficiently - [article](http://lemire.me/blog/archives/2014/12/30/how-to-learn-efficiently/)
 * How to Learn New Things as an Adult - [article](https://www.theatlantic.com/science/archive/2017/03/how-to-learn-new-things-as-an-adult/519687/?single_page=true)
+* How to Make Better Use of Everything You Read - [article](https://work.qz.com/1217245/how-to-make-better-use-of-everything-you-read/)
 * How to Wake Up Early, Your Ultimate Blueprint - [article](https://medium.com/personal-growth/how-to-wake-up-early-your-ultimate-blueprint-1f8bb2045b90#.uka5o1w0u)
 * Improving Focus - [article](https://qotoqot.com/blog/improving-focus/)
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
@@ -108,14 +110,13 @@
 * Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)
 * Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
+* The React Productivity Revolution - [talk](https://www.youtube.com/watch?v=BOKxSFB2hOE)
 * The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
 * The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
 * Thoughts on Living a Productive Live - [publication](http://dariusforoux.com/blog/)
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
 * You Too May be a Victim of Developaralysis - [article](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/)
 * Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
-* Happiness, Systems for Decision Making, Habits, Honesty and More - [podcast](https://www.farnamstreetblog.com/2017/02/naval-ravikant-reading-decision-making/)
-
 ## Professional Development
 
 * 10 Things My Friends and I are Doing to Be Better Devs - [article](https://medium.com/code-school/10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0#.iff4h33hr)
