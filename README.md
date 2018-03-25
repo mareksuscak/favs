@@ -23,6 +23,7 @@
 
 ## Building Products
 
+* 1000 True Fans - [article](http://kk.org/thetechnium/1000-true-fans/)
 * 19 Channels You Can Use To Get Traction - [article](https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.imf8c8pbo)
 * 8 rules of great products - [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
 * Does it Scale? Who Cares! - [article](https://jacquesmattheij.com/does-it-scale-who-cares)
