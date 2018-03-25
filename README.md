@@ -109,6 +109,7 @@
 * Improving Focus - [article](https://qotoqot.com/blog/improving-focus/)
 * In a Difficult Conversation, Listen More Than you Talk - [article](https://hbr.org/2017/02/in-a-difficult-conversation-listen-more-than-you-talk)
 * Learning These 9 Tough Skills Will Pay Off for the Rest of Your Life - [article](https://medium.com/the-mission/learning-these-9-tough-skills-will-pay-off-for-the-rest-of-your-life-f3ae97d8fb4c)
+* Mental Models - [article](https://www.fs.blog/mental-models/)
 * Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)
 * Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
