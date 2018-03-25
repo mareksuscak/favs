@@ -36,6 +36,7 @@
 * Six Steps to Superior Product Prototyping - [article](http://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/)
 * The Future of Software Engineering - [video](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 * The MVP is Dead, Long Live RAT - [article](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
+* The Next Feature Fallacy - [article](http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 * The Process of Designing a Product - [article](https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/)
 * Two Step, No Bullshit Guide to Sketching -
   [article](https://matejlatin.co.uk/personal-notes/2016/12/08/a-two-step-no-bullshit-guide-to-sketching/)
