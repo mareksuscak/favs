@@ -225,6 +225,7 @@
 
 * 1 Year of Working Remote - [story](http://modess.io/2015/08/16/one-year-of-working-remote/)
 * Awesome Remote Job - [collection](https://github.com/lukasz-madon/awesome-remote-job)
+* Career Cold Start - [article](http://boz.com/articles/career-cold-start.html)
 * Be Productive Anywhere: 8 Proven Strategies for Better Remote Work - [article](https://zapier.com/blog/productive-remote-work/)
 * Getting Things Done - [article](http://jvns.ca/blog/2016/09/19/getting-things-done/)
 * Hiring Without Whiteboards - [collection](https://github.com/poteto/hiring-without-whiteboards)
@@ -236,4 +237,4 @@
 * The Shockingly Simple Math For An Early Retirement - [article](http://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 * Ultimate Guide to Remote Work - [series](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 * Working Remotely, Coworking and Mental Health - [article](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
-* Career Cold Start - [article](http://boz.com/articles/career-cold-start.html)
+
