@@ -1,4 +1,32 @@
-## Algorithms & Data Structures
+Favorites
+=========
+
+The collection is divided into multiple categories and is subject for further reorganisation sooner or later. This is just a small part of [my second brain](https://www.youtube.com/watch?v=BOKxSFB2hOE&t=218s) that I've been building for a while now.
+
+I keep content in Instapaper, Apple Notes, Notepad, Text files in DropBox, Browser bookmarks and reading lists, YouTube and Vimeo playlists, bookshelf, etc.
+
+## Categories
+
+- [Algorithms & Data Structures](#algorithms--data-structures)
+- [API design](#api-design)
+- [Building Products](#building-products)
+- [Compilers](#compilers)
+- [Design Patterns & Principles](#design-patterns--principles)
+- [Domain Driven Design](#domain-driven-design)
+- [Entrepreneurship & Startups](#entrepreneurship--startups)
+- [Freelancing, Equity & Compensation](#freelancing-equity--compensation)
+- [Functional and Reactive Programming](#functional-and-reactive-programming)
+- [Self-Help](#self-help)
+- [Professional Development](#professional-development)
+- [Software Architecture](#software-architecture)
+- [User Interface](#user-interface)
+- [User Experience](#user-experience)
+- [User Stories](#user-stories)
+- [Web Development](#web-development)
+- [Work](#work)
+
+
+### Algorithms & Data Structures
 
 * 15 Sites for Programming Exercises - [collection](http://programmingzen.com/15-sites-for-programming-exercises/)
 * Big-O Algorithm Complexity - [cheatsheet](http://bigocheatsheet.com/)
@@ -14,14 +42,14 @@
 * The Algorithm Design Manual - [book](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual)
 * Data-Oriented Design - [talk](https://youtu.be/rX0ItVEVjHc)
 
-## API design
+### API design
 
 * Google's API Design Guide - [guide](https://cloud.google.com/apis/design/)
 * HTTP API Design Guide - [guide](https://github.com/interagent/http-api-design)
 * Ultimate Guide to API Design - [guide](https://blog.qmo.io/ultimate-guide-to-api-design/)
 * Web APIs from Scratch to Finish - [series](http://www.infoq.com/articles/Web-APIs-From-Start-to-Finish)
 
-## Building Products
+### Building Products
 
 * 1000 True Fans - [article](http://kk.org/thetechnium/1000-true-fans/)
 * 19 Channels You Can Use To Get Traction - [article](https://medium.com/swlh/the-19-channels-you-can-use-to-get-traction-93c762d19339#.imf8c8pbo)
@@ -43,20 +71,20 @@
   [article](https://matejlatin.co.uk/personal-notes/2016/12/08/a-two-step-no-bullshit-guide-to-sketching/)
 * Use This Simple Psychology Rule to Improve your Customer Experience - [article](https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.wl9or42r4)
 
-## Compilers
+### Compilers
 
 * The Super Tiny Compiler - [annotated source](https://github.com/thejameskyle/the-super-tiny-compiler)
 
-## Design Patterns & Principles
+### Design Patterns & Principles
 
 * Coffee Maker Heuristics - [guide](http://www.objectmentor.com/resources/articles/CoffeeMaker.pdf)
 * Encapsulation and SOLID - [course](https://www.pluralsight.com/courses/encapsulation-solid)
 
-## Domain Driven Design
+### Domain Driven Design
 
 * Getting Started with DDD - [article](https://dzone.com/refcardz/getting-started-domain-driven)
 
-## Entrepreneurship & Startups
+### Entrepreneurship & Startups
 
 * 9 Tactics That Will Improve Your Customer Lifetime Value - [article](http://www.appster.com.au/blog/9-tactics-will-improve-customer-lifetime-value)
 * $9 marketing stack - [article](https://robsobers.com/9-dollar-marketing-stack-step-by-step-setup-guide/)
@@ -76,7 +104,7 @@
 * YCs Essential Startup Advice - [article](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
 
-## Freelancing, Equity & Compensation
+### Freelancing, Equity & Compensation
 
 * 50 Ways, Happier Healthier and More Successful People Live On Their Own Terms - [article](https://medium.com/the-mission/50-ways-happier-healthier-and-more-successful-people-live-on-their-own-terms-31ba8f482448)
 * Engineering You - [talk](https://www.infoq.com/presentations/engineer-practices-techniques)
@@ -84,7 +112,7 @@
 * The Open Guide to Equity & Compensation - [guide](https://github.com/jlevy/og-equity-compensation)
 * The Two Paths To Success - [article](http://paulbuchheit.blogspot.sk/2011/02/two-paths-to-success.html)
 
-## Functional and Reactive Programming
+### Functional and Reactive Programming
 
 * An Introduction to Functional Programming - [article](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 * Interoperability of Common Algebraic Structures in JavaScript - [specification](https://github.com/fantasyland/fantasy-land)
@@ -92,7 +120,7 @@
 * Professor Frisby Introduces Composable Functional JavaScript - [course](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * The Introduction to Reactive Programming - [article](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-## Self-Help
+### Self-Help
 
 * (Deep Work) => Flow: A proven Path to Satisfaction - [article](https://www.robinwieruch.de/lessons-learned-deep-work-flow/)
 * 6 Things You Need to Recover From Every Day - [article](https://journal.thriveglobal.com/6-things-you-need-to-recover-from-every-day-23becf26fe89)
@@ -160,7 +188,7 @@
 * The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 * You're Not Paid to Write Code - [article](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
 
-## Software Architecture
+### Software Architecture
 
 * C4 Software Architecture - [podcast](https://softwareengineeringdaily.com/2017/06/20/software-architecture-with-simon-brown/)
 * Choose Boring Technology - [slides](http://mcfunley.com/choose-boring-technology-slides)
@@ -176,7 +204,7 @@
 * Unit Testability and the Universal Architecture - [podcast](http://www.fullstackradio.com/38), [summary](https://www.productivecsharp.com/2017/03/universal-architecture/)
 * Write Code That Is Easy To Delete - [article](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
-## User Interface
+### User Interface
 
 * 7 Rules for Creating Gorgeous UI - [series](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * A Framework for Creating a Predictable and Harmonious Spacing System - [article](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
@@ -184,7 +212,7 @@
 * Practical Color Theory for People Who Code - [guide](https://tallys.github.io/color-theory/)
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
 
-## User Experience
+### User Experience
 
 * 7 Principles of Rich Web Applications - [article](http://rauchg.com/2014/7-principles-of-rich-web-applications/)
 * 26 Digital Typography Rules for Beginners - [article](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
@@ -192,13 +220,13 @@
 * Jank Free - [guide](http://jankfree.org/)
 * Why Performance Matters: The Perception of Time - [series](https://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/)
 
-## User Stories
+### User Stories
 
 * A Framework for modern User Stories - [article](https://medium.com/@jonatisokon/a-framework-for-user-stories-bc3dc323eca9)
 * Gherkin - [guide](https://github.com/cucumber/cucumber/wiki/Gherkin)
 * What's in a Story - [article](http://dannorth.net/whats-in-a-story/)
 
-## Web Development
+### Web Development
 
 * 12 Factor App - [guide](https://12factor.net)
 * A Step-by-Step Guide for Starting a New App Design Project - [article](https://medium.com/ux-power-tools/a-step-by-step-guide-for-starting-a-new-app-design-project-in-sketch-469df0f24af8#.97vk2d2vc)
@@ -226,7 +254,7 @@
 * Web Developer Security - [checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
 * Website Performance Optimization - [course](https://classroom.udacity.com/courses/ud884)
 
-## Work
+### Work
 
 * 1 Year of Working Remote - [story](http://modess.io/2015/08/16/one-year-of-working-remote/)
 * Awesome Remote Job - [collection](https://github.com/lukasz-madon/awesome-remote-job)
