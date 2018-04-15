@@ -3,7 +3,7 @@ Favorites
 
 The collection is divided into multiple categories and is subject for further reorganisation sooner or later. This is just a small part of [my second brain](https://www.youtube.com/watch?v=BOKxSFB2hOE&t=218s) that I've been building for a while now.
 
-I keep content in Instapaper, Apple Notes, Notepad, Text files in DropBox, Browser bookmarks and reading lists, YouTube and Vimeo playlists, bookshelf, etc.
+I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox, Browser bookmarks, [YouTube](https://www.youtube.com/playlist?list=PLta_Oz8mBtxDVa1YkQ7Bszd_jU7Yrwi61), [Vimeo](https://vimeo.com/mareksuscak/likes) and Ted playlists, bookshelf, etc.
 
 ## Categories
 
