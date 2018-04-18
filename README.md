@@ -142,6 +142,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Methodology Workshop - [video](https://youtu.be/XVQ8c19unnM)
 * Millennials Question - [talk](http://videacesky.cz/video/problem-dnesni-generace-milenialu)
 * Minimally Nice Maintainer - [article](http://brson.github.io/2017/04/05/minimally-nice-maintainer)
+* Productivity - [article](http://blog.samaltman.com/productivity)
 * The React Productivity Revolution - [talk](https://www.youtube.com/watch?v=BOKxSFB2hOE)
 * The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
 * The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
@@ -149,6 +150,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
 * You Too May be a Victim of Developaralysis - [article](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/)
 * Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
+
 ## Professional Development
 
 * 10 Things My Friends and I are Doing to Be Better Devs - [article](https://medium.com/code-school/10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0#.iff4h33hr)
