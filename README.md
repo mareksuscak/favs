@@ -56,6 +56,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * 8 rules of great products - [article](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058#.9z7i9znjs)
 * Does it Scale? Who Cares! - [article](https://jacquesmattheij.com/does-it-scale-who-cares)
 * How to Come Up with Side Project Ideas - [article](https://medium.com/product-hunt/how-to-come-up-with-side-project-ideas-4a2c8049deba#.s0uamr4iw)
+* How to Decide What to Build - [article](https://dcgross.com/decide-what-to-build/)
 * How I Built an App with 500k Users in 5 days on $100 / mo server - [article](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
 * Product Design for Rapid Growth - [article](https://uxdesign.cc/product-design-for-rapid-growth-c7eaf1cdbf52#.bwvx0z2h6)
 * Product Management with Suzie Prince - [podcast](https://softwareengineeringdaily.com/2017/01/18/product-management-with-suzie-prince/)
