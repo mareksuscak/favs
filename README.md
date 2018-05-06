@@ -92,6 +92,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Don't Start Big, Start a Little Snowball - [article](https://blog.nugget.one/2016/09/04/dont-start-big-start-a-little-snowball/)
 * Fuck It, Ship It - [article](http://www.dtelepathy.com/blog/business/fuck-it-ship-it-how-to-achieve-perfection-through-iteration)
 * How to Make a Million Dollars in Cold Hard Cash - [article](https://medium.com/hi-my-name-is-jon/how-to-make-a-million-dollars-c4dc9a9bfd99)
+* How to Make Wealth - [article](http://www.paulgraham.com/wealth.html)
 * How to Start a Startup without Ruining Your Life - [article](https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life)
 * How Anyone Can Make Insanely Better Slides - [article](https://hackernoon.com/how-anyone-can-make-insanely-better-slides-2398b5c3731c)
 * Ten Rules for Web Startups - [article](http://evhead.com/2005/11/ten-rules-for-web-startups.asp)
