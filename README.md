@@ -103,6 +103,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Recursive Product Strategy - [article](http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
+* Writing, Briefly - [article](http://www.paulgraham.com/writing44.html)
 * YCs Essential Startup Advice - [article](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
 
@@ -190,6 +191,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Things You Should Never Do, Part 1 - [article](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
 * The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
+* What You'll Wish You'd Known - [article](http://www.paulgraham.com/hs.html)
 * You're Not Paid to Write Code - [article](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
 
 ### Software Architecture
