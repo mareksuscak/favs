@@ -101,6 +101,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * The One Cost Engineers and PMs Don't Consider - [article](http://firstround.com/review/The-one-cost-engineers-and-product-managers-dont-consider/)
 * Things I Learned At My Startup - [article](http://johnmosesman.com/things-i-learned-at-my-first-startup/)
 * Recursive Product Strategy - [article](http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/)
+* Six Principles for Making New Things - [article](http://www.paulgraham.com/newthings.html)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
 * Writing, Briefly - [article](http://www.paulgraham.com/writing44.html)
