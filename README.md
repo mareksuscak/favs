@@ -170,6 +170,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Google Interview Unisersity - [collection](https://github.com/jwasham/google-interview-university)
 * Growing As Software Engineer -
   [article](http://www.metadevelopment.io/growing-as-software-engineer/)
+* Holding a Program in One's Head - [article](http://www.paulgraham.com/head.html)
 * How Do I Stay Up-To-Date as a Software Developer - [article](https://hackernoon.com/how-do-i-stay-up-to-date-as-a-developer-5ec773e30a82#.plm92n67f)
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
