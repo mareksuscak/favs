@@ -223,7 +223,9 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * A Framework for Creating a Predictable and Harmonious Spacing System - [article](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
 * Material Design Principles - [guide](http://www.google.com/design/spec/material-design/introduction.html#introduction-principles)
 * Practical Color Theory for People Who Code - [guide](https://tallys.github.io/color-theory/)
+* Tactical Design Advice for Developers - [podcast](http://www.fullstackradio.com/74)
 * Web Typography for Non-Designers - [article](http://www.presslabs.com/blog/web-typography-for-non-designers/)
+
 
 ### User Experience
 
