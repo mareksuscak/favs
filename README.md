@@ -104,7 +104,6 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Six Principles for Making New Things - [article](http://www.paulgraham.com/newthings.html)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
-* The Hardest Lessons for Startups to Learn - [article](http://www.paulgraham.com/startuplessons.html)
 * Writing, Briefly - [article](http://www.paulgraham.com/writing44.html)
 * YCs Essential Startup Advice - [article](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
@@ -150,11 +149,13 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Productivity - [article](http://blog.samaltman.com/productivity)
 * The React Productivity Revolution - [talk](https://www.youtube.com/watch?v=BOKxSFB2hOE)
 * The Top Idea in your Mind - [article](http://www.paulgraham.com/top.html)
+* The Top of My Todo List - [article](http://www.paulgraham.com/todo.html)
 * The System I Used to Write Many Books and Blog Posts - [article](https://medium.com/the-mission/the-system-i-used-to-write-5-books-and-over-1-000-blog-posts-5872451d7461)
 * Thoughts on Living a Productive Live - [publication](http://dariusforoux.com/blog/)
 * Use Spaced Repetition with Anki - [article](https://medium.freecodecamp.com/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c#.cwaa2adn1)
 * You Too May be a Victim of Developaralysis - [article](http://techcrunch.com/2014/10/18/you-too-may-be-a-victim-of-developaralysis/)
 * Why you Should Be Planning for 2018, nor for 2017 - [article](https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52#.i50o2u1br)
+* Write Like You Talk - [article](http://www.paulgraham.com/talk.html)
 
 ## Professional Development
 
