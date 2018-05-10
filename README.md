@@ -104,6 +104,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Six Principles for Making New Things - [article](http://www.paulgraham.com/newthings.html)
 * Startups in 13 Sentences - [article](http://paulgraham.com/13sentences.html)
 * Successful People Start Before They Feel Ready - [article](http://jamesclear.com/successful-people-start-before-they-feel-ready)
+* The Hardest Lessons for Startups to Learn - [article](http://www.paulgraham.com/startuplessons.html)
 * Writing, Briefly - [article](http://www.paulgraham.com/writing44.html)
 * YCs Essential Startup Advice - [article](https://blog.ycombinator.com/ycs-essential-startup-advice/)
 * Zápisky z Budúcnosti [series - slovak](https://dennikn.sk/blog/zapisky-z-buducnosti-1-exponencialny-svet-a-ray-kurzweil/)
