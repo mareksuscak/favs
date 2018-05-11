@@ -80,6 +80,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 
 * Coffee Maker Heuristics - [guide](http://www.objectmentor.com/resources/articles/CoffeeMaker.pdf)
 * Encapsulation and SOLID - [course](https://www.pluralsight.com/courses/encapsulation-solid)
+* The Four Elements of Simple Design - [article](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
 
 ### Domain Driven Design
 
