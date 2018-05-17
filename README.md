@@ -276,6 +276,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Awesome Remote Job - [collection](https://github.com/lukasz-madon/awesome-remote-job)
 * Career Cold Start - [article](http://boz.com/articles/career-cold-start.html)
 * Be Productive Anywhere: 8 Proven Strategies for Better Remote Work - [article](https://zapier.com/blog/productive-remote-work/)
+* Forget Work-Life Balance: Achieve Work-Life Integration by Finding Purpose - [video](http://bigthink.com/videos/dan-pontefract-on-working-with-purpose)
 * Getting Things Done - [article](http://jvns.ca/blog/2016/09/19/getting-things-done/)
 * Hiring Without Whiteboards - [collection](https://github.com/poteto/hiring-without-whiteboards)
 * How to Ask for a Raise - [article](https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/)
