@@ -118,6 +118,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * Engineering You - [talk](https://www.infoq.com/presentations/engineer-practices-techniques)
 * How to Set Your Rate - [article](http://kenwestgaard.com/the-gurus-got-5-questions-set-rate/)
 * The Open Guide to Equity & Compensation - [guide](https://github.com/jlevy/og-equity-compensation)
+* Holloway's Guide to Equity Compensation - [guide](https://www.holloway.com/g/equity-compensation)
 * The Two Paths To Success - [article](http://paulbuchheit.blogspot.sk/2011/02/two-paths-to-success.html)
 
 ### Functional and Reactive Programming
