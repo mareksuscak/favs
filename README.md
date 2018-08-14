@@ -183,6 +183,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * How I Became a Better Programmer - [article](http://jlongster.com/How-I-Became-Better-Programmer)
 * How Can You Increase Your Value as a Software Engineer - [article](https://medium.com/@tomastrajan/how-can-you-increase-your-value-as-a-software-engineer-cab9599bbbe)
 * I Wanted to Learn CS so I created My Own Curriculum - [collection](https://hackernoon.com/i-wanted-to-learn-computer-science-so-i-created-my-own-degree-heres-my-curriculum-bad56f28c278#.57wcivodi)
+* Introduction to Computer Organization - [book](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 * Improving a Legacy Codebase - [article](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * Low Level Programmer University - [collection](https://github.com/gurugio/lowlevelprogramming-university)
 * Open Source Computer Science Degree - [collection](https://github.com/mvillaloboz/open-source-cs-degree)
