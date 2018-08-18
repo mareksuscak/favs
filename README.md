@@ -200,6 +200,7 @@ I keep great content in Instapaper, Apple Notes, Notepad, Text files in DropBox,
 * The 1% Rule - [article](http://jamesclear.com/the-1-percent-rule)
 * Things You Should Never Do, Part 1 - [article](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * The Art of Minimalistic Design - [article](http://jonasboner.com/the-art-of-minimalistic-design/)
+* The Total Beginners Guide to Game AI - [guide](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)
 * The Ultimate Guide to JS Fatigue - [article](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)
 * What You'll Wish You'd Known - [article](http://www.paulgraham.com/hs.html)
 * You're Not Paid to Write Code - [article](https://bravenewgeek.com/you-are-not-paid-to-write-code/)
